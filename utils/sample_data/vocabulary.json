@@ -1,0 +1,50 @@
+{
+  "001": {
+    "word": "asynchronous programming",
+    "category": "programming",
+    "definition": "programming that operates independently of other processes",
+    "uid": ""
+  },
+  "002": {
+    "word": "synchronous programming",
+    "category": "programming",
+    "definition": "programming that operates sequentially",
+    "uid": ""
+  },
+  "003": {
+    "word": "git",
+    "category": "git terms",
+    "definition": "widely used distributed version control system //commonly confused with github",
+    "uid": ""
+  },
+  "004": {
+    "word": "github",
+    "category": "git terms",
+    "definition": "web based hosting service utilizing git",
+    "uid": ""
+  },
+  "005": {
+    "word": "linux", 
+    "category": "technology",
+    "definition": "open source operating system developed by linus torvarlds, utilizing gnu software",
+    "uid": ""
+  },
+  "006": {
+    "word": "gnu",
+    "category": "technology",
+    "definition": "acronym for `gnu's not unix`-- a collection of free software developed to be an open source alternative to unix",
+    "uid": ""
+  }, 
+  "007": {
+    "word": "official by ag cook",
+    "category": "ag cook",
+    "definition": "ag cook often produces song for hyperpop artist charli xcx-- official was a song produced for her by him, but ag cook released his own rendition. his own rendition features the same melody and tones, but lower pitched, slower, and replaces the sugary synths in charli's version in lieu of more sweeping, filling strings",
+    "uid": ""
+  },
+  "008": {
+    "word": "ag cook",
+    "category": "ag cook",
+    "definition": "singer, songwriter, and producer. known for creating music reminiscent of heavily produced and digitized pop music with immense y2k influence-- most notably known for his `5g` ep, thought to be considered as the foundation of hyperpop. in addition, ag owns the record label `pc music`.",
+    "uid": ""
+  }
+}
